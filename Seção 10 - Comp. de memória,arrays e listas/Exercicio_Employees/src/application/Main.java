@@ -16,7 +16,7 @@ public class Main {
 		
 		List<Employee> list = new ArrayList<>();
 		
-		System.out.print("Quantos Funcionarios? ");
+		System.out.print("Quantos Funcionarios vc tem? ");
 		num = sc.nextInt();
 		sc.nextLine();
 		for(int i=0; i<num; i++) {
